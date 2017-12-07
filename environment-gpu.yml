@@ -1,0 +1,8 @@
+name: tensorflow-udacity-gpu
+dependencies:
+  - tensorflow-gpu
+  - jupyter
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - scipy

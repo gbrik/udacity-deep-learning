@@ -1,0 +1,8 @@
+name: tensorflow-udacity
+dependencies:
+  - tensorflow
+  - jupyter
+  - matplotlib
+  - numpy
+  - scikit-learn
+  - scipy
